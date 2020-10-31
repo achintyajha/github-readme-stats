@@ -262,6 +262,12 @@ const themes = {
     icon_color: "a64833",
     text_color: "d9c8a9",
     bg_color: "402b23"
+  },
+  molika: {
+    title_color: "bd9eff",
+    icon_color: "fa7fac",
+    text_color: "c7c7c7",
+    bg_color: "161616"
   }
 };
 
